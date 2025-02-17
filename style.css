@@ -92,6 +92,7 @@ first div in the grid  and place it in the grid. */
      display: grid;
      place-items: center;
      text-align: center;
+     
 }
 
 
